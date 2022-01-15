@@ -16,7 +16,7 @@ export const ChildArea = (props) => {
     <>
       {open ? (
         <div style={style}>
-          <p>子コンポーネント</p>
+          <p>コンポーネント</p>
         </div>
       ) : null}
     </>
